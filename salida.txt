@@ -1,0 +1,6 @@
+
+AT+GSN
+
+
+ERROR
+
